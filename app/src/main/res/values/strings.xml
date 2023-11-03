@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bagai mana kabar anda hari ini</string>
+    <string name="kabar_hari_ini">kyubi</string>
+    <string name="button_label_Toast">Toast</string>
+    <string name="hitung_initial_value">0</string>
+    <string name="Button_label_hitung">Hitung</string>
+    <string name="toast_pesan">Hebat Bro</string>
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD</string>
+    <string name="button_main">Send</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+
+
+</resources>
