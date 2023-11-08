@@ -1,6 +1,8 @@
 # Tugas UTS Fibonacci Pemograman Mobile
 ```
 Raja Heppyanto
+312210235
+TI.22.a2
 
 ```
 ## 1. Buat code java dan aktivity layout seperti dibawah ini
